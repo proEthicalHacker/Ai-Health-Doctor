@@ -1,0 +1,5 @@
+{
+  "name": "AI Health Doctor",
+  "description": "An AI-powered application that provides personalized health advice, diet plans, and exercise routines based on user queries. It leverages Google Search for up-to-date information.",
+  "requestFramePermissions": []
+}
